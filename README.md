@@ -1,2 +1,2 @@
-# solotest
+# SoloTest
 Solo Test Game
